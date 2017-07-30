@@ -1,4 +1,8 @@
-Ha aha Jus  Kjoke	again
+<<<<<<< HEAD
+Ha aha Jus  Kjoke	again ahkhkhhhkldjfjdlafjl;djhdsvhdvldbhvlsdvlkdsvklds
+=======
+Ha aha Jus  Kjoke	again again again
+>>>>>>> cdbd14c6296af933afb20093405647758a723762
 
 <<<<<<< HEAD
 Hello Ankur byAnkur sen by aaagdggfhjjjhjljkjg  just added
